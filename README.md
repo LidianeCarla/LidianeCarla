@@ -1,7 +1,7 @@
-## Bem vindo!
+##   😻   Bem-vindo!
 
 
-- 😄 Back-end developer
+- 👩‍💻 Desenvolvedora back-end.
  
 
 <div align="center">
